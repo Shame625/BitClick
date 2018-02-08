@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BitClickServer", "BitClickServer\BitClickServer.csproj", "{4129F5DF-41C4-4AE2-BA8F-6433C6AA7D82}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4129F5DF-41C4-4AE2-BA8F-6433C6AA7D82}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4129F5DF-41C4-4AE2-BA8F-6433C6AA7D82}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4129F5DF-41C4-4AE2-BA8F-6433C6AA7D82}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4129F5DF-41C4-4AE2-BA8F-6433C6AA7D82}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
